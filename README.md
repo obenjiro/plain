@@ -1,4 +1,4 @@
-FIST
+plain
 ====
 
-FIST - is an alternative to stupidly complicated terminal text editors
+plain - is an alternative to stupidly complicated terminal text editors
