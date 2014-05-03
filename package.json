@@ -1,19 +1,19 @@
 {
-  "name": "FIST",
+  "name": "plain",
   "version": "0.1.0",
-  "description": "FIST ====",
-  "main": "fist.js",
+  "description": "plain ====",
+  "main": "plain.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aiboy/FIST.git"
+    "url": "https://github.com/aiboy/plain.git"
   },
   "author": "Ai_boy (aka Oleksii Okhrymenko)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aiboy/FIST/issues"
+    "url": "https://github.com/aiboy/plain/issues"
   },
-  "homepage": "https://github.com/aiboy/FIST"
+  "homepage": "https://github.com/aiboy/plain"
 }
